@@ -10,6 +10,7 @@
             "email": "fabien@symfony.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "twig/twig": "^1.27|^2.0"
     },
